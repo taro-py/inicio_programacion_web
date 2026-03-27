@@ -1,0 +1,29 @@
+html{
+    background-color: rgb(173, 125, 108);
+}
+
+img{
+    width: 360px;
+}
+
+
+.BOX{
+
+    background-color: lightgray;
+
+    width: 300px;
+
+    max-width: 0,5px;
+
+    padding: 20px;
+
+    border: 10px solid;
+    border-radius: 30px;
+    border-color: brown;
+
+    margin: 40px;
+
+    text-align: justify;
+
+
+}
