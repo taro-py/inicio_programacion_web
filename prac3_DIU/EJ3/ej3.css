@@ -6,10 +6,16 @@ img{
     width: 360px;
 }
 
+p{
+
+    size-adjust: 16px;
+}
+
 
 .BOX{
 
     background-color: lightgray;
+
 
     width: 300px;
 
@@ -24,6 +30,8 @@ img{
     margin: 40px;
 
     text-align: justify;
+
+   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
 
 
 }
