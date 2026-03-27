@@ -1,0 +1,36 @@
+head{
+
+    table{
+
+                margin: 20px auto;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            text-align: center;
+            padding: 10px;
+            border: 1px solid;
+
+        }
+}
+
+
+
+caption{
+
+    font-size: 18px;
+    
+    font-weight: bold;
+}
+
+tbody{
+
+    text-align: end;
+
+    color: blue;
+
+    font-size: 16px;
+
+    font-weight: bold;
+
+}
